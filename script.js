@@ -1,1 +1,2 @@
-console.log("Damantha Jasinghe");
+ver x = 3;
+console.log(x)
